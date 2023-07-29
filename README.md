@@ -1,4 +1,4 @@
-# ☁️Principal Clouud Engineer ☁️| 🤖Machine Learning Engineer 🤖 | ☁️Cloud Enthusiast🚀
+# ☁️Principal Cloud Engineer ☁️| 🤖Machine Learning Engineer 🤖 | ☁️Cloud Enthusiast🚀
 Welcome to my GitHub profile!
 Hello there! I'm Jagannath Panda, a Cloud Principal Engineer and Machine Learning enthusiast. I am passionate about leveraging the power of cloud technologies and data-driven solutions to create robust, scalable, and intelligent systems.
 
